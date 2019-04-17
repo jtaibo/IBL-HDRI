@@ -1,0 +1,10 @@
+IMAGEFORMAT=7 # Large file JPEG
+ISO=1	      # ISO 100
+APERTURE=19   # f/11
+
+# TO-DO: Metering mode
+
+# The script will shoot first the center exposure and then the additional 
+# steps defined below, both overexposing and underexposing
+# Centra step (0) is not included. Offsets are set as 1/3EV for Canon DSLR
+STEPS="6 12 18 -6 -12 -18"
