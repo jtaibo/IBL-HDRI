@@ -4,8 +4,9 @@ IBL-HDRI capture
 This is a simple bash script to automate the process of capturing HDR
 images to make light probes for IBL
 
-It has been tested in Ubuntu 18.04, but should work in any Unix system with
-gphoto2 installed and a USB connection to the camera
+It has been tested in Ubuntu 18.04 and a Canon EOS 350D, but should work in 
+any Unix system with gphoto2 installed and a USB connection to the camera
+supported by the installed version of gphoto2
 
 Usage
 -----
